@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/courier_app/static/css/main.706e4eb2.css",
+    "main.js": "/courier_app/static/js/main.f0ad3b32.js",
+    "static/js/787.4e368562.chunk.js": "/courier_app/static/js/787.4e368562.chunk.js",
+    "index.html": "/courier_app/index.html",
+    "main.706e4eb2.css.map": "/courier_app/static/css/main.706e4eb2.css.map",
+    "main.f0ad3b32.js.map": "/courier_app/static/js/main.f0ad3b32.js.map",
+    "787.4e368562.chunk.js.map": "/courier_app/static/js/787.4e368562.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.706e4eb2.css",
+    "static/js/main.f0ad3b32.js"
+  ]
+}
